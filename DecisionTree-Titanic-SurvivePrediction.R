@@ -114,6 +114,6 @@ tune_fit <- rpart(survived~., data = data_train, method = 'class', control = con
 accuracy_tune(tune_fit)
 
 #Didn't get better performance, need further actions
-Reference:
-  https://www.guru99.com/r-decision-trees.html
+#Reference:
+#  https://www.guru99.com/r-decision-trees.html
  
