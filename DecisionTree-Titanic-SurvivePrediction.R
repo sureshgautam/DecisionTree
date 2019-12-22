@@ -75,7 +75,7 @@ rpart.plot(fit, extra = 106)
 #When, Warning message:
 #  labs do not fit even at cex 0.15, there may be some overplotting 
 #Sample Tree can be visible
-https://www.guru99.com/images/r_programming/032918_0938_DecisionTre1.png
+#https://www.guru99.com/images/r_programming/032918_0938_DecisionTre1.png
 
 #observation
 #At the top, it is the overall probability of survival. It shows the proportion of passenger that survived the crash. 41 percent of passenger survived.
